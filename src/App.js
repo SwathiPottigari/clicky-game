@@ -12,7 +12,14 @@ class App extends Component {
   render() {
     return (<Wrapper>
       <h4>Clicky Game</h4>
-      <FriendsCard/>
+      {this.state.friends.map(friend=>(
+        <FriendsCard
+        id={friend.id}
+        name={friend.name}
+        image={friend.image}
+        key={friend.id}
+        />
+        ))}
     </Wrapper>);
   }
 }
