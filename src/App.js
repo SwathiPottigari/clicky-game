@@ -15,7 +15,6 @@ class App extends Component {
       {this.state.friends.map(friend=>(
         <FriendsCard
         id={friend.id}
-        name={friend.name}
         image={friend.image}
         key={friend.id}
         />
