@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+
+.scoreBoard{
+  background-color: wheat;
+  align-content: center;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
