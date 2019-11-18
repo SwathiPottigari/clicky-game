@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SwathiPottigari/clicky-game/static/css/main.00c3a30c.chunk.css",
+    "main.js": "/SwathiPottigari/clicky-game/static/js/main.1c4634de.chunk.js",
+    "main.js.map": "/SwathiPottigari/clicky-game/static/js/main.1c4634de.chunk.js.map",
+    "runtime-main.js": "/SwathiPottigari/clicky-game/static/js/runtime-main.29879569.js",
+    "runtime-main.js.map": "/SwathiPottigari/clicky-game/static/js/runtime-main.29879569.js.map",
+    "static/js/2.05bcf8b3.chunk.js": "/SwathiPottigari/clicky-game/static/js/2.05bcf8b3.chunk.js",
+    "static/js/2.05bcf8b3.chunk.js.map": "/SwathiPottigari/clicky-game/static/js/2.05bcf8b3.chunk.js.map",
+    "index.html": "/SwathiPottigari/clicky-game/index.html",
+    "precache-manifest.3d26373b470372aa81ae9fb2f8c7153d.js": "/SwathiPottigari/clicky-game/precache-manifest.3d26373b470372aa81ae9fb2f8c7153d.js",
+    "service-worker.js": "/SwathiPottigari/clicky-game/service-worker.js",
+    "static/css/main.00c3a30c.chunk.css.map": "/SwathiPottigari/clicky-game/static/css/main.00c3a30c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29879569.js",
+    "static/js/2.05bcf8b3.chunk.js",
+    "static/css/main.00c3a30c.chunk.css",
+    "static/js/main.1c4634de.chunk.js"
+  ]
+}
